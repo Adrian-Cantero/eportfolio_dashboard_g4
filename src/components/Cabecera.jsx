@@ -1,8 +1,11 @@
+import React from 'react';
+import '../style/Cabecera.css';
 
-function Cabecera() {
+
+function Cabecera(props) {
   return (
     <header>
-      <p>HEADER</p>
+      HEADER
     </header>
   )
 }

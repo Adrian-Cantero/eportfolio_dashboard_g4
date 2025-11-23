@@ -1,8 +1,9 @@
+import '../style/Roles.css';
 
 function Roles() {
   return (
     <aside>
-      <p>ROLES</p>
+      ROLES
     </aside>
   )
 }

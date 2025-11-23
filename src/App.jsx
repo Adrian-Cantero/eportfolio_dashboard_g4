@@ -10,15 +10,9 @@ function App() {
 
   return (
     <>
-      <div className='container'>
-        <div className="row">
-          <div className="col-12">
-            <Cabecera></Cabecera>
-          </div>
-          <Dashboard></Dashboard>
-          <Roles></Roles>
-        </div>
-      </div>
+      <Cabecera></Cabecera>
+      <Roles></Roles>
+      <Dashboard></Dashboard>
       
     </>
   )

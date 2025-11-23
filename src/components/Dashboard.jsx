@@ -1,9 +1,10 @@
+import '../style/Dashboard.css';
 
 function Dashboard() {
 
   return (
     <main>
-      <p>MAIN</p>
+      MAIN
     </main>
   )
   
